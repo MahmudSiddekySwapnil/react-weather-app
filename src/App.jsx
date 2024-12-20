@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import { useState } from "react";
 import { getWeatherByCity } from "./api";
 import WeatherCard from "./components/WeatherCard";
 import SearchBar from "./components/SearchBar";
