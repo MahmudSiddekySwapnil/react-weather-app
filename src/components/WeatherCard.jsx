@@ -1,5 +1,3 @@
-import React from "react";
-
 function WeatherCard({ weather }) {
     if (!weather) return null;
 
